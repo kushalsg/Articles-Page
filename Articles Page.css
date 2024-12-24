@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Article-background-page {
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+    font-family: Roboto;
+    padding: 20px;
+}
+
+.Article-head-text {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.Article-para-text {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.Article-card-container {
+    background-color: #ffffff;
+    width: 250px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.Article-card-text {
+    color: #1f2933;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.Tech-background-container {
+    background-color: #225db0;
+    background-size: cover;
+    height: 120vh;
+    font-family: Roboto;
+    padding: 20px;
+}
+
+.Tech-head-text {
+    color: #ffffff;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.Tech-para-text {
+    color: #ffffff;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.Tech-button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Tech-button-text {
+    background-color: #225db0;
+    border-style: solid;
+    border-color: #ffffff;
+    color: #ffffff;
+}
